@@ -44,7 +44,7 @@ We are happy to help schools, universities, robotics clubs, and makerspaces usin
 If you're planning a workshop, research project, or educational activity, feel free to contact us.
 
 📧 Email:
-nortwest138@gmail.com
+uzunmelih453@gmail.com
 
 ## Companies
 
