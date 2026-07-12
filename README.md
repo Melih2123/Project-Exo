@@ -20,6 +20,15 @@ Designed to be modular, repairable, and hackable.
 - Servo power is external, user-selected, and must be fused separately.
 - All grounds are common.
 - Servo PWM enable is controlled through PCA9685 OE on GPIO48.
+- 
+### Expansion Interface
+
+The board exposes two expansion interfaces:
+
+- **Power Header**: dedicated power distribution for high-current expansion modules.
+- **Expansion Header**: I²C, GPIO, and auxiliary power for sensors and low-power peripherals.
+
+High-current devices should always use the dedicated Power Header.
 
 ## Revision format
 
