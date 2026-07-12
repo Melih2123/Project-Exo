@@ -1,4 +1,4 @@
-# 🦾 Project Exo
+#  Project Exo
 
 Open Source Modular Exoskeleton Platform.
 
