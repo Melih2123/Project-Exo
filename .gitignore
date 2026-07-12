@@ -1,0 +1,35 @@
+# OS / editor junk
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDEs
+.vscode/
+.idea/
+*.code-workspace
+
+# Build artifacts
+build/
+dist/
+out/
+release/
+debug/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# KiCad backups
+*-backups/
+*.bak
+*.bck
+*.tmp
+
+# Archives
+*.zip
+*.7z
+*.rar
