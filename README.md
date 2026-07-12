@@ -42,3 +42,17 @@ See `LICENSES/` for license notices and details.
 - `software/` companion tools
 - `docs/` assembly, wiring, safety, and BOM notes
 - `examples/` small test projects
+# Support
+
+## Schools
+
+We are happy to help schools, universities, robotics clubs, and makerspaces using Project Exo.
+
+If you're planning a workshop, research project, or educational activity, feel free to contact us.
+
+📧 Email:
+nortwest138@gmail.com
+
+## Companies
+
+Companies with annual gross revenue above USD $500,000 must contact the maintainers regarding commercial licensing.
