@@ -78,6 +78,12 @@ The Project Exo maintainers, contributors, and copyright holders shall **not** b
 
 Use this project **entirely at your own risk.**
 
+## Case
+
+Designed for a snug friction fit.
+
+*Depending on your printer calibration,* **minor sanding may be required.**
+
 ## Safety Warning
 
 Project Exo controls high-current electronics and mechanical actuators.
