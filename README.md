@@ -33,15 +33,8 @@ Designed to be modular, repairable, and hackable.
 - Firmware: MIT
 - Hardware: CERN-OHL-S v2
 
-See `LICENSES/` for license notices and details.
+See `LICENSES` for license notices and details.
 
-## Repo layout
-
-- `hardware/` PCB, mechanical, and CAD assets
-- `firmware/` embedded code
-- `software/` companion tools
-- `docs/` assembly, wiring, safety, and BOM notes
-- `examples/` small test projects
 # Support
 
 ## Schools
