@@ -4,6 +4,12 @@ Open Source Modular Exoskeleton Platform.
 
 Designed to be modular, repairable, and hackable.
 
+#  Why Project Exo?
+
+Most hobby exoskeleton projects are difficult to repair or extend.
+
+Project Exo was created to provide a modular, open hardware platform focused on education, experimentation, and long-term maintainability.
+
 ## Highlights
 
 - ESP32-S3 control board
