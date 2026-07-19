@@ -103,3 +103,25 @@ Always verify your design, use appropriate protection (fuses, emergency stop sys
 This project is provided without any warranty.
 
 The maintainers are not responsible for products manufactured, modified, or sold by third parties.
+
+## Geniune note:
+
+*May this device bring good to the people it serves.*
+
+and that includes you too, dont overwork yourself too much, take an rest.
+
+kick your shoes off and just sleep.
+
+Because...
+
+The project will still be here tomorrow.
+
+You aren't weak because you slept, it shows your care for yourself...
+
+Youre here debugging that one damned bug or fixing clock speeds or even thinking why the board eats shit and dies???
+
+**WHATEVER it is.**
+
+***One day, I'll come back to see what you've built.***
+
+— Melih
