@@ -1,3 +1,5 @@
+
+
 #  Project Exo
 
 Open Source Modular Exoskeleton Platform.
@@ -19,6 +21,8 @@ Project Exo was created to provide a modular, open hardware platform focused on 
 - NTC battery temperature input
 - Debug LEDs and fan header
 - Open hardware workflow
+
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/b95044de-d300-40fb-86a2-560ac838e4f5" />
 
 ## Hardware notes
 
