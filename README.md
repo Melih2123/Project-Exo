@@ -108,11 +108,11 @@ This project is provided without any warranty.
 
 The maintainers are not responsible for products manufactured, modified, or sold by third parties.
 
-## Geniune note:
+## Genuine note:
 
 *May this device bring good to the people it serves.*
 
-and that includes you too, dont overwork yourself too much, take an rest.
+and that includes you too, dont overwork yourself too much. Now go get some damn rest...
 
 kick your shoes off and just sleep.
 
